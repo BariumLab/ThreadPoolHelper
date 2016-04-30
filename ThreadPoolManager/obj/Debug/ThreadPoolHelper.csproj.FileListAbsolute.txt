@@ -1,0 +1,5 @@
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\bin\Debug\ThreadPoolHelper.dll
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\bin\Debug\ThreadPoolHelper.pdb
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\obj\Debug\ThreadPoolHelper.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\obj\Debug\ThreadPoolHelper.dll
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\obj\Debug\ThreadPoolHelper.pdb

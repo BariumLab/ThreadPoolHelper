@@ -1,0 +1,4 @@
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\bin\Release\ThreadPoolHelper.dll
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\bin\Release\ThreadPoolHelper.pdb
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\obj\Release\ThreadPoolHelper.dll
+c:\users\brian\documents\visual studio 2015\Projects\ThreadPoolManager\ThreadPoolManager\obj\Release\ThreadPoolHelper.pdb
